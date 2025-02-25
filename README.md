@@ -4,7 +4,7 @@
 Требуется предсказать уйдет клент или нет, используя данные с платформы <a href='https://www.kaggle.com/competitions/advanced-dls-spring-2021/overview'>kaggle<a>
 
 ## Тип задачи
-Задача относится к бинатрной классификации с дисбалансом классов
+Задача относится к бинарной классификации с дисбалансом классов
 
 ## Используемые технологии
 - <b>XGBClassifier, LGBMClassifier, CatBoostClassifier, LogisticRegression</b> - используемые модели. 
